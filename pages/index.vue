@@ -1,5 +1,7 @@
 <template>
-  <Tutorial />
+  <div class="bg-indigo-500">
+   <Navbar />
+  </div>
 </template>
 
 <script>
